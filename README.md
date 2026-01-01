@@ -22,7 +22,7 @@ const AboutMe = {
 
 
 <h3 align="center">
-  🧑‍💻 Languages and Tools ⌨️
+   Languages and Tools 
   </p>
 <p align="center">
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
