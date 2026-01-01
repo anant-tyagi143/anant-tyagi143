@@ -44,6 +44,9 @@ const AboutMe = {
   | <img src="https://github-readme-stats.vercel.app/api?username=Archayu&show_icons=true&theme=rose_pine"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=rose_pine"/> |
 
 
+</div> 
+<div align="center">
+	
 <h3 align="center">Reach Me On Discord</h3>
 
 <p align="center">
