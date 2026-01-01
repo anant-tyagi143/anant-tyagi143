@@ -41,14 +41,14 @@ const AboutMe = {
  </p>
 
  <h3 align="center">
-   Languages and Tools 
+   Reach Me Out! 
   </p>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="ig.png" width="30px" alt="LinkedIn"></a>
+  <a target="_blank" href="www.linkedin.com/in/anant-tyagi143">
+  <img src="lin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  <a target="_blank" href="https://www.instagram.com/anant.ty?igsh=MWlocXkzcXB2b294Yw==">
+  <img src="ig.png" width="30px" alt="Instagram"></a>
 </p>
 
