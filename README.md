@@ -1,11 +1,8 @@
-<h2> नमस्कार I'm Anant Tyagi 👋</h2>
-<p>
-A passionate learner who enjoys building things with code and understanding how the backend works.
-</p>
+<h2> Heyyyy! I'm Anant Tyagi 👋</h2>
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
 <p>
 A passionate learner who enjoys building things with code and understanding how the backend works.
 </p>
