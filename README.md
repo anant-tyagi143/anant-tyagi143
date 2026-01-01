@@ -40,3 +40,15 @@ const AboutMe = {
  <a href="https://xata.io/" target="_blank"> <img src="https://images.saasworthy.com/tr:w-178,h-0/xata_40802_logo_1667550917_ny7fp.jpg" width="48" height="48"/> </a> 
  </p>
 
+ <h3 align="center">
+   Languages and Tools 
+  </p>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <a target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+</p>
+
