@@ -51,7 +51,7 @@ const AboutMe = {
 <h3 align="center">Reach Me On Discord</h3>
 
 <p align="center">
-    <a href="https://discord.com/users/1051806381461745664" target="_blank">
-        <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1051806381461745664?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+    <a href="https://discord.com/users/1083627269873995777" target="_blank">
+        <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1083627269873995777?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
     </a>
 </p>
