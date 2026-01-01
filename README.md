@@ -6,7 +6,9 @@ A passionate learner who enjoys building things with code and understanding how 
 </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
+<p>
+A passionate learner who enjoys building things with code and understanding how the backend works.
+</p>
 </p>
 
 ---
