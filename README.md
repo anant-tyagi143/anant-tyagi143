@@ -1,12 +1,12 @@
-<h1 align="left">Heyyyy! I'm Anant Tyagi 👋</h1>
+<h2> Heyyyy! I'm Anant Tyagi 👋</h2>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="90" />
-  <p>
-    A passionate learner who enjoys building things with code and understanding how the backend works.
-  </p>
-</div>
+</samp>
 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
+<p>
+A passionate learner who enjoys building things with code and understanding how the backend works.
+</p>
+</p>
 
 ---
 
