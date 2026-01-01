@@ -17,6 +17,7 @@ const AboutMe = {
     currentFocus: "Academics with consistent coding practice",
     portfolio: "Coming soon",
 };
+```
 <h3 align="center">
 
 
