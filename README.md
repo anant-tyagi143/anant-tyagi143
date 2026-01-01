@@ -44,18 +44,16 @@ const AboutMe = {
   | <img src="https://github-readme-stats.vercel.app/api?username=Archayu&show_icons=true&theme=rose_pine"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=rose_pine"/> |
 
 
-</div> 
 <div align="center">
-	
-<h3 align="center">Reach Me On Discord</h3>
 
-<p align="center">
-  <a href="https://discord.com/users/1083627269873995777" target="_blank">
-    <img 
-      src="https://lanyard.cnrad.dev/api/1083627269873995777?bg=1f1f1f&borderRadius=10px&showDisplayName=true"
-      width="400"
-      alt="Discord Status"
-    />
-  </a>
-</p>
+<h3>Reach Me On Discord</h3>
+
+<a href="https://discord.com/users/1083627269873995777" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  />
+</a>
+
+</div>
 
