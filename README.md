@@ -45,15 +45,14 @@ const AboutMe = {
 
 
 <div align="center">
+  <h3>Reach Me On Discord</h3>
 
-<h3>Reach Me On Discord</h3>
-
-<a href="https://discord.com/users/1083627269873995777" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord"
-  />
-</a>
-
+  <a href="https://discord.com/users/1083627269873995777" target="_blank">
+    <img
+      src="https://lanyard-profile-readme.vercel.app/api/1083627269873995777?bg=1e1e2e&borderRadius=12px&idleMessage=I’m%20not%20currently%20doing%20anything!"
+      alt="Discord Profile Card"
+      width="420"
+    />
+  </a>
 </div>
 
