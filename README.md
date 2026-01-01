@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2> नमस्कार I'm Anant Tyagi 👋</h2>
+<p>
+A passionate learner who enjoys building things with code and understanding how the backend works.
+</p>
 
-<!--
-**anant-tyagi143/anant-tyagi143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### aboutMe.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const AboutMe = {
+    name: "Anant Tyagi",
+    pronouns: "he/him",
+    location: "India 🇮🇳",
+    role: "Student & Backend Developer (Learning Phase)",
+    askMeAbout: ["C/C++", "HTML", "CSS", "Programming Basics"],
+    currentFocus: "Academics with consistent coding practice",
+    funFact: "I write code without depending on coffee ☕🚫",
+    portfolio: "Coming soon",
+};
