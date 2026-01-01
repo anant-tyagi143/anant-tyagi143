@@ -47,12 +47,9 @@ const AboutMe = {
 <div align="center">
   <h3>Reach Me On Discord</h3>
 
-  <a href="https://discord.com/users/1083627269873995777" target="_blank">
-    <img
-      src="https://lanyard-profile-readme.vercel.app/api/1083627269873995777?bg=1e1e2e&borderRadius=12px&idleMessage=I’m%20not%20currently%20doing%20anything!"
-      alt="Discord Profile Card"
-      width="420"
-    />
+  <a href="https://discord.com/users/1083627269873995777">
+    <img src="./assets/discord-card.png" width="420" />
   </a>
 </div>
+
 
