@@ -45,7 +45,7 @@ const AboutMe = {
   </p>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  <img src="ig.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
   <a target="_blank" href="https://twitter.com/tanx_dev">
