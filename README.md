@@ -35,21 +35,3 @@ const AboutMe = {
  <a href="https://xata.io/" target="_blank"> <img src="https://images.saasworthy.com/tr:w-178,h-0/xata_40802_logo_1667550917_ny7fp.jpg" width="48" height="48"/> </a> 
  </p>
 
-
-
-<div align="center">
-	
-  | _**Github Stats**_ | _**Top Languages**_ |
-  | ----------- | ------------- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=Archayu&show_icons=true&theme=rose_pine"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=rose_pine"/> |
-
-
-<div align="center">
-  <h3>Reach Me On Discord</h3>
-
-  <a href="https://discord.com/users/1083627269873995777">
-    <img src="./assets/discord-card.png" width="420" />
-  </a>
-</div>
-
-
