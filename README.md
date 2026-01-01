@@ -36,8 +36,7 @@ const AboutMe = {
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
     <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48" height="48"/> </a> 
- <a href="https://xata.io/" target="_blank"> <img src="https://images.saasworthy.com/tr:w-178,h-0/xata_40802_logo_1667550917_ny7fp.jpg" width="48" height="48"/> </a> 
+
  </p>
 
  <h3 align="center">
