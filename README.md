@@ -52,7 +52,7 @@ const AboutMe = {
    Languages and Tools 
   </p>
 <p align="center">
-    <a href="[https://www.python.org/" target="_blank"> <img width=10% height=auto src="py.png"/> </a> 
+    <a href="[https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/python--v1.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
