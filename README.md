@@ -1,10 +1,28 @@
-<h2> Heyyyy! I'm Anant Tyagi 👋</h2>
+<h2 align="center"> &nbsp Hey! I'm Anant Tyagi 👋</h2>
 
-</samp>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
+    width="150" 
+    alt="Hollow Knight animation"
+  />
+</p>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
-<p>
-A passionate learner who enjoys building things with code and understanding how the backend works.
+  
+### 👋 About Me
+I’m a BCA student (2nd Year) from India with a growing interest in backend development.  
+Currently, I’m learning core backend concepts and strengthening my programming fundamentals through hands-on practice and small projects.  
+
+I’m interested in entry-level and internship opportunities where I can apply what I’m learning, improve my problem-solving skills, and gain real-world development experience.
+
+### 🎓 Education
+**Bachelor of Computer Applications (BCA)** — 2nd Year
+
+### 🛠️ Technical Skills
+- **Programming Languages:** Python, C, C++
+- **Web Technologies:** HTML, CSS
+- **Core Concepts:** Programming Fundamentals, Backend Fundamentals
+
 </p>
 </p>
 
@@ -16,10 +34,14 @@ A passionate learner who enjoys building things with code and understanding how 
 const AboutMe = {
     name: "Anant Tyagi",
     pronouns: "he/him",
-    location: "India 🇮🇳",
-    role: "Student & Backend Developer (Learning Phase)",
-    askMeAbout: ["C/C++", "HTML", "CSS", "Programming Basics"],
-    currentFocus: "Academics with consistent coding practice",
+    location: "India",
+    learningAreas: [
+       "Cyber Security fundamentals",
+       "Data Analytics",
+       "AI/ML concepts",
+       "Data Structures & Algorithms (DSA)"],
+    askMeAbout: ["Python", "C/C++", "HTML/CSS", "Programming fundamentals"],
+    currentFocus: "Balancing academics with consistent coding practice",
     portfolio: "Coming soon",
 };
 ```
