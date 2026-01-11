@@ -9,15 +9,14 @@
 </p>
 
   
-### 👋 About Me
+## ▸ About Me
 I’m a BCA student (2nd Year) from India with a growing interest in backend development.  
 Currently, I’m learning core backend concepts and strengthening my programming fundamentals through hands-on practice and small projects.
 
-### 🎓 Education
+## ▸ Education
 **Bachelor of Computer Applications (BCA)** — 2nd Year
 
----
-### 🛠️ Technical Skills
+## ▸ Technical Skills
 - **Programming Languages & Queries:**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd43b"/>
