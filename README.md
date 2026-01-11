@@ -11,24 +11,54 @@
   
 ### 👋 About Me
 I’m a BCA student (2nd Year) from India with a growing interest in backend development.  
-Currently, I’m learning core backend concepts and strengthening my programming fundamentals through hands-on practice and small projects.  
-
-I’m interested in entry-level and internship opportunities where I can apply what I’m learning, improve my problem-solving skills, and gain real-world development experience.
+Currently, I’m learning core backend concepts and strengthening my programming fundamentals through hands-on practice and small projects.
 
 ### 🎓 Education
 **Bachelor of Computer Applications (BCA)** — 2nd Year
 
+---
 ### 🛠️ Technical Skills
-- **Programming Languages:** Python, C, C++
-- **Web Technologies:** HTML, CSS
-- **Core Concepts:** Programming Fundamentals, Backend Fundamentals
+- **Programming Languages & Queries:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
+- **Web Technologies:** 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
+</p>
+
+- **Tools & Technologies:** 
+<p align="center">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
+
+- **Core Concepts:**
+<p align="center">
+<img src="https://img.shields.io/badge/Programming%20Fundamentals-0d1117?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Backend%20Fundamentals-0d1117?style=for-the-badge&logo=node.js&logoColor=green"/>
+<img src="https://img.shields.io/badge/Database%20Fundamentals-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Version%20Control%20Concepts-0d1117?style=for-the-badge&logo=git&logoColor=orange"/>
 </p>
 </p>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anant-tyagi143&theme=radical)
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-0d1117?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1117&color=0d1117&border=FFFFFF" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0d1117?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=0d1117&color=0d1117&border=000000" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anant-tyagi143&style=flat&label=👥%20Visitors%20%20%20&color=0d1117&labelColor=0d1117" />
+</p>
 
 ---
 
@@ -76,3 +106,4 @@ const AboutMe = {
   <img src="ig.png" width="30px" alt="Instagram"></a>
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=anant-tyagi143&theme=radical)
