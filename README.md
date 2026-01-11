@@ -26,6 +26,8 @@ I’m interested in entry-level and internship opportunities where I can apply w
 </p>
 </p>
 
+![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-tyagi143&show_icons=true&theme=radical&hide_border=true)
+
 ---
 
 ### aboutMe.js
