@@ -17,7 +17,7 @@ Currently, I’m learning core backend concepts and strengthening my programming
 **Bachelor of Computer Applications (BCA)** — 2nd Year
 
 ## ▸ Technical Skills
-- **Programming Languages & Queries:**
+- **Programming Languages & Queries -**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd43b"/>
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C"/>
@@ -25,18 +25,18 @@ Currently, I’m learning core backend concepts and strengthening my programming
   <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-- **Web Technologies:** 
+- **Web Technologies -** 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
 </p>
 
-- **Tools & Technologies:** 
+- **Tools & Technologies -** 
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
-- **Core Concepts:**
+- **Core Concepts -**
 <p align="center">
 <img src="https://img.shields.io/badge/Programming%20Fundamentals-0d1117?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cyber%20Security-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
@@ -48,36 +48,7 @@ Currently, I’m learning core backend concepts and strengthening my programming
 </p>
 </p>
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-0d1117?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1117&color=0d1117&border=FFFFFF" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0d1117?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=0d1117&color=0d1117&border=000000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anant-tyagi143&style=flat&label=👥%20Visitors%20%20%20&color=0d1117&labelColor=0d1117" />
-</p>
-
----
-
-### aboutMe.js
-
-```js
-const AboutMe = {
-    name: "Anant Tyagi",
-    pronouns: "he/him",
-    location: "India",
-    learningAreas: [
-       "Cyber Security fundamentals",
-       "Data Analytics",
-       "AI/ML concepts",
-       "Data Structures & Algorithms (DSA)"],
-    askMeAbout: ["Python", "C/C++", "HTML/CSS", "Programming fundamentals"],
-    currentFocus: "Balancing academics with consistent coding practice",
-    portfolio: "Coming soon",
-};
-```
 <h3 align="center">
 
 
@@ -93,16 +64,43 @@ const AboutMe = {
 
  </p>
 
- <h3 align="center">
+---
+
+ <h3>
    Reach Me Out! 
-  </p>
+ </h3>
+<table>
+    <tr>
+    <td>
+      <a href="www.linkedin.com/in/anant-tyagi143">
+        <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="28"/>
+      </a>
+    </td>
+    <td>
+      <b>LINKEDIN</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="mailto:anant143.tyagi@gmail.com">
+        <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="28"/>
+      </a>
+    </td>
+    <td>
+      <b>GMAIL</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/anant-tyagi143">
-  <img src="lin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; 
-  &nbsp;
-  <a target="_blank" href="https://www.instagram.com/anant.ty?igsh=MWlocXkzcXB2b294Yw==">
-  <img src="ig.png" width="30px" alt="Instagram"></a>
+  <img src="https://img.shields.io/badge/Commits-Active-0d1117?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1117&color=0d1117&border=FFFFFF" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0d1117?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=0d1117&color=0d1117&border=000000" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anant-tyagi143&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anant-tyagi143&style=flat&label=👥%20Visitors%20%20%20&color=0d1117&labelColor=0d1117" />
+</p>
+
+---
